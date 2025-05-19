@@ -1,0 +1,17 @@
+{
+  "name": "vi-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "ethers": "^6.7.0",
+    "fs-extra": "^11.1.1",
+    "gradient-string": "^2.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
