@@ -15,9 +15,7 @@ Công cụ Node.js để tạo nhiều loại ví blockchain khác nhau và lưu
 - ✅ NEAR
 - ✅ TRON
 - ✅ TON
-- ✅ Cardano
-- ✅ Algorand
-- ✅ Hedera
+Đã cập nhật đầy đủ các loại ví
 
 ---
 
