@@ -18,9 +18,7 @@ A Node.js CLI tool to generate multiple types of blockchain wallets and export t
 - ✅ NEAR
 - ✅ TRON
 - ✅ TON
-- ✅ Cardano
-- ✅ Algorand
-- ✅ Hedera
+
 
 ---
 
